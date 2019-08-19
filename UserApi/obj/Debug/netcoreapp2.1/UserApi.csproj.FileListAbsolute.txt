@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\asp.netweapi\sedc7-10-aspnetwebapi\g1\Class 2\UserApi\bin\Debug\netcoreapp2.1\UserApi.deps.json
+C:\Users\User\Desktop\asp.netweapi\sedc7-10-aspnetwebapi\g1\Class 2\UserApi\bin\Debug\netcoreapp2.1\UserApi.runtimeconfig.json
+C:\Users\User\Desktop\asp.netweapi\sedc7-10-aspnetwebapi\g1\Class 2\UserApi\bin\Debug\netcoreapp2.1\UserApi.runtimeconfig.dev.json
+C:\Users\User\Desktop\asp.netweapi\sedc7-10-aspnetwebapi\g1\Class 2\UserApi\bin\Debug\netcoreapp2.1\UserApi.dll
+C:\Users\User\Desktop\asp.netweapi\sedc7-10-aspnetwebapi\g1\Class 2\UserApi\obj\Debug\netcoreapp2.1\UserApi.csprojAssemblyReference.cache
+C:\Users\User\Desktop\asp.netweapi\sedc7-10-aspnetwebapi\g1\Class 2\UserApi\obj\Debug\netcoreapp2.1\UserApi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\asp.netweapi\sedc7-10-aspnetwebapi\g1\Class 2\UserApi\obj\Debug\netcoreapp2.1\UserApi.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\asp.netweapi\sedc7-10-aspnetwebapi\g1\Class 2\UserApi\obj\Debug\netcoreapp2.1\UserApi.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\asp.netweapi\sedc7-10-aspnetwebapi\g1\Class 2\UserApi\obj\Debug\netcoreapp2.1\UserApi.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\asp.netweapi\sedc7-10-aspnetwebapi\g1\Class 2\UserApi\obj\Debug\netcoreapp2.1\UserApi.AssemblyInfo.cs
+C:\Users\User\Desktop\asp.netweapi\sedc7-10-aspnetwebapi\g1\Class 2\UserApi\obj\Debug\netcoreapp2.1\UserApi.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\asp.netweapi\sedc7-10-aspnetwebapi\g1\Class 2\UserApi\bin\Debug\netcoreapp2.1\UserApi.pdb
+C:\Users\User\Desktop\asp.netweapi\sedc7-10-aspnetwebapi\g1\Class 2\UserApi\obj\Debug\netcoreapp2.1\UserApi.dll
+C:\Users\User\Desktop\asp.netweapi\sedc7-10-aspnetwebapi\g1\Class 2\UserApi\obj\Debug\netcoreapp2.1\UserApi.pdb
